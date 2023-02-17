@@ -1,0 +1,3 @@
+Excelente trabajo!!!. Todo muy bien, muy buenas validaciones. En el primero, en las expresiones regulares se debe
+ quitar el g de los modificadores, ya que ocupan la misma expresión regular para varias validaciones y eso hace 
+ que tenga un comportamiento inesperado. Felicitaciones !!!
